@@ -4,4 +4,7 @@
 <br> 
 Randevu and Gonullu modules and the user interface design was made by my teammate
 <br>
-![20240101_174951](https://github.com/Aleyna-B/BanKan/assets/122743833/27fe4774-5a9c-455a-9bf7-91144578d8a5)
+![Ekran görüntüsü gönüllü](https://github.com/Aleyna-B/BanKan/assets/122743833/b92a2632-e942-44e6-8a59-a122f36b801b)
+![Ekran görüntüsü hastalep](https://github.com/Aleyna-B/BanKan/assets/122743833/e7a029b2-7be2-41c5-a6ae-de42e8899228)
+![Ekran görüntüsü stokgör](https://github.com/Aleyna-B/BanKan/assets/122743833/5d2ddba6-81d8-4b71-8765-0d37462e1b2a)
+![Ekran görüntüsü testsonuç](https://github.com/Aleyna-B/BanKan/assets/122743833/769f21ed-9647-43f0-a222-2fea80e96de6)
